@@ -1,0 +1,11 @@
+{
+  "name": "sample-package",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@js-primer/hello-world": "^1.0.0",
+    "@js-primer/local-server": "^0.0.3",
+    "yarn-run": "^1.1.0"
+  }
+}
